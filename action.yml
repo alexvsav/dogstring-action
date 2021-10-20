@@ -1,5 +1,5 @@
 name: 'Ponicode DogString: Automatic AI-based Docstring generation'
-description: 'Add doctrings to all your undocumented functions in your repository'
+description: 'Add docstrings to all your undocumented functions in your repository'
 branding:
   icon: 'align-justify'  
   color: 'orange'
