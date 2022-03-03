@@ -97,7 +97,7 @@ jobs:
 
 To get a Ponicode token follow these steps:
 
-- Connect to your ponicode member page at https://app.ponicode.com/actions
+- Connect to your ponicode member page at https://app.ponicode.com/home
 - Copy your ponicode token
 
 To add the Ponicode token to your github secrets follow these steps:
@@ -115,7 +115,7 @@ That's it! Once this is done, the action will be triggered on every push.
 | Name              | Description                                                                                                                                                  | Required | Default  |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | -------- |
 | `repo_path`       | The relative path in your repo to the files you want Ponicode to test. By default, Ponicode tests your whole repo.                                           | true     | `./`     |
-| `auth_token`      | String. No default value. You need to add your authentication ponicode token at https://app.ponicode.com/actions                                             | true     | ` `      |
+| `auth_token`      | String. No default value. You need to add your authentication ponicode token at https://app.ponicode.com/home                                             | true     | ` `      |
 | `all_repo`        | Boolean. By default, the value is False. Choose if you want to write docstrings only on the files you just committed (False) or on all your repository (True) | true     | ` False` |
 | `enable_template` | Boolean. By default, the value is true. Choose if you want to docstrings to include params and templates                                                     | false    | ` True`  |
 
