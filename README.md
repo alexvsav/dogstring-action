@@ -1,3 +1,5 @@
+## 🦄 Ponicode has been acquired by CircleCI :rocket: [Read the announcement here](http://www.ponicode.com/blog/circleci-completes-acquisition-of-ponicode)
+
 [<img alt="Ponicode Logo_product_hunt" target="_blank" src="https://uploads-ssl.webflow.com/5f85a5ab7da846bd78f988af/5fbbd27b9e854653a40f579f_Couv-readme-1024x416.png" width="100%"/>](https://www.producthunt.com/posts/ponicode-dogstring)
 
 # 🦄 Magically add docstrings to your undocumented code
